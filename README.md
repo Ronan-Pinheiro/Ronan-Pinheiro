@@ -140,7 +140,7 @@ Sou apaixonado por tecnologia, interfaces interativas e estou sempre em busca de
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Ronan-Pinheiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -148,7 +148,7 @@ Sou apaixonado por tecnologia, interfaces interativas e estou sempre em busca de
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronan-Pinheiro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
