@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Ronan-Pinheiro
 
-**`Desenvolvedora Front-end`**
+**`Desenvolvedor Front-end`**
 
 Me chamo <span style="color:#f57c00"><strong>Ronan Pinheiro Otavio</strong></span>, tenho 20 anos e sou de Trindade-GO.  
 Sou Desenvolvedor Front-end e Games VR, com experiência em  
@@ -137,12 +137,12 @@ Sou apaixonado por tecnologia, interfaces interativas e estou sempre em busca de
 ### 📊 Estatísticas
 
 <p>
-<img 
+<!-- > <img 
   align="left" 
   alt="GitHub Stats" 
   height="180" 
   src="https://github-readme-stats.vercel.app/api?username=Ronan-Pinheiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-/>
+/> -->
 <img 
   align="left" 
   alt="Top Langs" 
