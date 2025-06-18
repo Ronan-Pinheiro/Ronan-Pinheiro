@@ -153,12 +153,12 @@ Sou apaixonado por tecnologia, interfaces interativas e estou sempre em busca de
 ### 📊 Estatísticas
 
 <p>
-<!-- > <img 
-  align="left" 
+ <img 
+  align="right" 
   alt="GitHub Stats" 
   height="180" 
   src="https://github-readme-stats.vercel.app/api?username=Ronan-Pinheiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-/> -->
+/> 
 <img 
   align="left" 
   alt="Top Langs" 
