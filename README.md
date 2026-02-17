@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Ronan-Pinheiro
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Web - QA`**
 
 Me chamo <span style="color:#f57c00"><strong>Ronan Pinheiro Otavio</strong></span>, tenho 21 anos e sou de Goiânia-GO.  
 Sou Desenvolvedor Web e de Games VR, com experiência em  
