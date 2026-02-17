@@ -18,7 +18,7 @@ Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e atualme
 Atuei na Fábrica de Softwares do SENAI, desenvolvendo games em VR/AR para empresas de treinamento e um mini game em AR para a marca Fiufiu.
 
 Sou focado em evolução constante, interfaces modernas e boas práticas de desenvolvimento.
-
+---
 ## 🌐 Conecte-se comigo
 <p align="left">
   <a href="https://www.instagram.com/Ronan._.Pinheiro" target="_blank">
