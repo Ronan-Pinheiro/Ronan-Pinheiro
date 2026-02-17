@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo <span style="color:#f57c00"><strong>Ronan Pinheiro Otavio</strong></span>, tenho 20 anos e sou de Trindade-GO.  
+Me chamo <span style="color:#f57c00"><strong>Ronan Pinheiro Otavio</strong></span>, tenho 201 anos e sou de Trindade-GO.  
 Sou Desenvolvedor Front-end e Games VR, com experiência em  
 <span style="color:#1976d2"><strong>HTML</strong></span>, <span style="color:#1976d2"><strong>CSS</strong></span>, <span style="color:#1976d2"><strong>JavaScript</strong></span>, <span style="color:#1976d2"><strong>React</strong></span>, <span style="color:#1976d2"><strong>C#</strong></span> e <span style="color:#1976d2"><strong>desenvolvimento de jogos imersivos</strong></span>.  
 Curso <strong>Análise e Desenvolvimento de Sistemas</strong> e atuei na Fábrica de Softwares do SENAI, desenvolvendo games em VR/AR e um mini game em AR/VR para a marca Fiufiu.  
@@ -150,8 +150,8 @@ Sou apaixonado por tecnologia, interfaces interativas e estou sempre em busca de
 <br/>
 <br/>
 
+<!-- 
 ### 📊 Estatísticas
-
 <p>
  <img 
   align="left" 
@@ -167,4 +167,4 @@ Sou apaixonado por tecnologia, interfaces interativas e estou sempre em busca de
 />
 <br clear="both" />
 
-</p>
+</p> -->
