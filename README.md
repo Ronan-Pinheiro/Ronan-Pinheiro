@@ -10,13 +10,10 @@ Sou Desenvolvedor Web e de Games VR, com experiência em
 <span style="color:#1976d2"><strong>React</strong></span>, 
 <span style="color:#1976d2"><strong>C#</strong></span> e 
 <span style="color:#1976d2"><strong>desenvolvimento de jogos imersivos</strong></span>.
-
 Tenho conhecimento básico em <strong>Cypress</strong> para criação de testes automatizados simples e validação de fluxos principais da aplicação.  
 Também possuo familiaridade com <strong>Jira</strong> para organização de tarefas, acompanhamento de demandas e atuação em ambientes ágeis.
-
 Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e atualmente curso <strong>Ciência da Computação</strong>.  
 Atuei na Fábrica de Softwares do SENAI, desenvolvendo games em VR/AR para empresas de treinamento e um mini game em AR para a marca Fiufiu.
-
 Sou focado em evolução constante, interfaces modernas e boas práticas de desenvolvimento.
 
 ---
