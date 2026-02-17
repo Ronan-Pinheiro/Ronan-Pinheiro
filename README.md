@@ -1,40 +1,48 @@
 # 👨🏼‍💻 Ronan Pinheiro
 
-**Desenvolvedor Web | Experiências Imersivas (VR/AR)**
+<p><strong>Desenvolvedor Front-end | React • JavaScript • Experiências Imersivas (VR/AR)</strong></p>
 
-Sou desenvolvedor focado em **interfaces modernas, performance e qualidade de código**.  
-Atuo com **React, JavaScript e Tailwind**, além de desenvolvimento de **games em VR/AR com Unity e C#**.
+<p>
+Desenvolvedor focado na construção de interfaces modernas, responsivas e orientadas à experiência do usuário.
+Atuo com <strong>React, JavaScript e Tailwind CSS</strong>, aplicando boas práticas de componentização,
+organização de código e consumo de APIs REST.
+</p>
 
-Tenho experiência com **controle de tarefas e fluxo ágil utilizando Jira** e implementação de **testes automatizados end-to-end com Cypress**, garantindo maior confiabilidade nas aplicações.
+<p>
+Também possuo experiência com desenvolvimento de <strong>aplicações imersivas em VR/AR com Unity e C#</strong>,
+participando de projetos reais voltados para treinamentos e ativações de marca.
+</p>
 
-🎓 Formação em **Análise e Desenvolvimento de Sistemas**
-🎓 Formação em **Ciência da Computação (Em andamento)**  
-🎮 Experiência na Fábrica de Softwares do SENAI com projetos de treinamento em VR e aplicações em AR para marcas reais.  
-🚀 Foco constante em evolução técnica, boas práticas e performance.
+<p>
+Vivência com <strong>Jira</strong> para gestão de tarefas, versionamento com <strong>Git/GitHub</strong>
+e implementação de <strong>testes automatizados End-to-End com Cypress</strong>,
+validando fluxos como login, cadastro e navegação principal.
+</p>
+
+<p>🎓 Análise e Desenvolvimento de Sistemas</p>
+<p>🎮 Experiência prática na Fábrica de Softwares (SENAI)</p>
+<p>🚀 Foco contínuo em evolução técnica e boas práticas</p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🚀 Projetos em Destaque
 
-<p align="left">
-  <a href="https://portfolio-ronan-pinheiro.vercel.app/" target="_blank">
-    <img 
-      alt="Portfólio" 
-      src="https://img.shields.io/badge/Portfólio-121212?style=for-the-badge&logo=vercel&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ronan-pinheiro-ot%C3%A1vio-37173425b/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://www.instagram.com/Ronan._.Pinheiro" target="_blank">
-    <img 
-      alt="Instagram" 
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
+<p><strong>🔹 Aplicações Web com React</strong></p>
+
+<p>
+• Componentização e reutilização de código<br>
+• Consumo de APIs com fetch e async/await<br>
+• Gerenciamento de estado com useState e useEffect<br>
+• Interface responsiva com Tailwind CSS<br>
+• Testes E2E com Cypress validando fluxos principais
+</p>
+
+<p><strong>🔹 Projetos Imersivos (VR/AR)</strong></p>
+
+<p>
+• Desenvolvimento de treinamentos em Realidade Virtual com Unity<br>
+• Mini game em Realidade Aumentada para cliente real<br>
+• Integração de interação 3D com experiência mobile
 </p>
 
 ---
@@ -57,13 +65,15 @@ Tenho experiência com **controle de tarefas e fluxo ágil utilizando Jira** e i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" />
 </p>
 
-- ✔️ Testes End-to-End com Cypress  
-- ✔️ Automação de fluxos críticos  
-- ✔️ Garantia de regressão controlada  
+<p>
+✔️ Testes End-to-End com Cypress<br>
+✔️ Automação de fluxos como login e navegação principal<br>
+✔️ Validação de regressões em funcionalidades críticas
+</p>
 
 ---
 
-## 🎮 Tecnologias para Experiências Imersivas
+## 🎮 Tecnologias Imersivas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
@@ -80,6 +90,27 @@ Tenho experiência com **controle de tarefas e fluxo ágil utilizando Jira** e i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
-- ✔️ Git Flow  
-- ✔️ Metodologias Ágeis  
-- ✔️ Gestão de tarefas com Jira  
+<p>
+✔️ Versionamento com Git Flow<br>
+✔️ Metodologias Ágeis<br>
+✔️ Gestão de tarefas com Jira
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://portfolio-ronan-pinheiro.vercel.app/" target="_blank">
+    <img 
+      alt="Portfólio" 
+      src="https://img.shields.io/badge/Portfólio-121212?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ronan-pinheiro-ot%C3%A1vio-37173425b/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
